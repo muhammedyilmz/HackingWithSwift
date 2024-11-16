@@ -10,7 +10,7 @@ Uygulama da yükleme çubuğu, reset butonu ve istenilen web sayfasına erişim 
 * Table view ile tablodan istenilen web sayfasına tıklanarak web sayfasına gitmeyi sağladım
 
 ##### Uygulamanın Örnek Resimleri
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 56 46](![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 56 50](https://github.com/user-attachments/assets/0cb74ecc-cefa-424e-b1a4-9248749d812b)
-https://github.com/user-attachments/assets/0a96e0e0-42ef-4834-ba3a-1e277cb77ae4)
-![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 56 37](https://github.com/user-attachments/assets/aba28360-5bef-440a-bebf-193fb6f77680)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 56 46](https://github.com/user-attachments/assets/f1440822-32d4-4258-8995-bdbbed59a70e)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 56 37](https://github.com/user-attachments/assets/de2514d7-b23e-4315-8f8f-219dde0bcbeb)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 56 50](https://github.com/user-attachments/assets/4d6e142d-515e-49e0-be75-00201cd3154a)
 
