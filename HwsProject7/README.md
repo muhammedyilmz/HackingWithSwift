@@ -1,11 +1,11 @@
 # Hacking With Swift Proje 7
 
-Bu projede swiftin VFL yapısını kullanarak tasarım yaptık
+Bu projede internetten aldığımız verileri parse ederek Table View de listeledik ve WebKit kullanarak navigation controller aracılığı ile
+verilerin içeriklerini yazdırdık
 
 ### Ekstra istenilen ödevde ise;
-* LeadingAnchor kullanarak deneme yapma
-* TrailingAnchor kullanarak uygulamayı eski haline çevirme
-* En sonda tasarımı sayfaya eşit şekilde bölerek tam ekran yapma.
+* UIBarButtonItem kullanarak bir buton eklememizi e tıklandığında bu verilerin We The People API of the Whitehouse dan geldiğini belirttim
+* Yine UIBarButtonItem kullanarak buton ekleyip filtreleme işlemi yaptım
 
 ##### Uygulamanın Örnek Resimleri
 ![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 55 48](https://github.com/user-attachments/assets/816a2825-9511-4a35-b158-e3bc890e7cd5)
