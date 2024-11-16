@@ -1,4 +1,4 @@
-# Hacking With Swift Proje 6
+# Hacking With Swift Proje 7
 
 Bu projede swiftin VFL yapısını kullanarak tasarım yaptık
 
@@ -8,3 +8,8 @@ Bu projede swiftin VFL yapısını kullanarak tasarım yaptık
 * En sonda tasarımı sayfaya eşit şekilde bölerek tam ekran yapma.
 
 ##### Uygulamanın Örnek Resimleri
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 55 48](https://github.com/user-attachments/assets/816a2825-9511-4a35-b158-e3bc890e7cd5)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 53 47](https://github.com/user-attachments/assets/d35fba7a-0248-4674-bce3-3690ff5400f9)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 53 42](https://github.com/user-attachments/assets/1e9a797a-c3bb-4fe9-a02d-c1b084afa6ac)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 53 23](https://github.com/user-attachments/assets/dc42062d-85f9-492d-8678-16a13207150e)
+![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 54 56](https://github.com/user-attachments/assets/5c1672ac-c9cd-4589-994c-457597562e05)
