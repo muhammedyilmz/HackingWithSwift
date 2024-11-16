@@ -1,4 +1,4 @@
-# Hacking With Swift Proje 7
+# Hacking With Swift Proje 1
 
 Bu projede internetten aldığımız verileri parse ederek Table View de listeledik ve WebKit kullanarak navigation controller aracılığı ile
 verilerin içeriklerini yazdırdık
