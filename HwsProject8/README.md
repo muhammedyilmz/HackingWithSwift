@@ -1,11 +1,11 @@
 # Hacking With Swift Proje 8
 
-Bu projede internetten aldığımız verileri parse ederek Table View de listeledik ve WebKit kullanarak navigation controller aracılığı ile
-verilerin içeriklerini yazdırdık
+Bu projede metin dosyasında levelleri çetktik sonrasında parçalanan kelimeleri soruya göre cevaplanan oyun tasarladık
 
 ### Ekstra istenilen ödevde ise;
-* UIBarButtonItem kullanarak bir buton eklememizi e tıklandığında bu verilerin We The People API of the Whitehouse dan geldiğini belirttim
-* Yine UIBarButtonItem kullanarak buton ekleyip filtreleme işlemi yaptım
+* Oluşturduğumuz kelime butonlarının kenarlarına çerçeve yaptım.
+* Kullanıcı hata yaptığında uyarı mesajı verdirdim.
+* Kullanıcı yanlış cevap verdiğinde puanını 1 puan şeklinde düşürme işlemi yaptım.
 
 ##### Uygulamanın Örnek Resimleri
 ![Simulator Screenshot - iPad Air 11-inch (M2) - 2024-11-24 at 20 32 24](https://github.com/user-attachments/assets/c78bcf5f-682b-48fc-ac79-e360b9651f51)
