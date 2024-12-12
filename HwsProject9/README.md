@@ -1,11 +1,11 @@
 # Hacking With Swift Proje 9
 
-Bu projede internetten aldığımız verileri parse ederek Table View de listeledik ve WebKit kullanarak navigation controller aracılığı ile
+Bu projede internetten aldığımız verileri Async metodu ve parse ederek Table View de listeledik ve WebKit kullanarak navigation controller aracılığı ile
 verilerin içeriklerini yazdırdık
 
 ### Ekstra istenilen ödevde ise;
-* UIBarButtonItem kullanarak bir buton eklememizi e tıklandığında bu verilerin We The People API of the Whitehouse dan geldiğini belirttim
-* Yine UIBarButtonItem kullanarak buton ekleyip filtreleme işlemi yaptım
+* Daha önce yaptığımız filtreleme işlemlerinde de async metodu kullandık
+* Yine Proje 1 de async metodu kullandık
 
 ##### Uygulamanın Örnek Resimleri
 ![Simulator Screenshot - iPhone 16 Pro - 2024-11-16 at 23 55 48](https://github.com/user-attachments/assets/816a2825-9511-4a35-b158-e3bc890e7cd5)
